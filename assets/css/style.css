@@ -1,5 +1,11 @@
 nav{background-color: rgb(175, 175, 185);
 text-align: center;
-line-height: 2em;}
+line-height: 2em;
+}
 
 .menu{text-align: center;}
+
+body{background-color: rgb(140, 138, 135);}
+
+footer {background-color: white;
+   }
